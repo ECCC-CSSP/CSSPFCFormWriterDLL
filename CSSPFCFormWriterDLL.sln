@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSSPFCFormWriterDLL", "CSSPFCFormWriterDLL\CSSPFCFormWriterDLL.csproj", "{DFB60E1D-593B-4DAF-8657-3F25C45D4B79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSSPFCFormWriterDLL.Tests", "CSSPFCFormWriterDLL.Tests\CSSPFCFormWriterDLL.Tests.csproj", "{F678489B-6D5F-4E2B-9528-3B559007258F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFB60E1D-593B-4DAF-8657-3F25C45D4B79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFB60E1D-593B-4DAF-8657-3F25C45D4B79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFB60E1D-593B-4DAF-8657-3F25C45D4B79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFB60E1D-593B-4DAF-8657-3F25C45D4B79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F678489B-6D5F-4E2B-9528-3B559007258F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F678489B-6D5F-4E2B-9528-3B559007258F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F678489B-6D5F-4E2B-9528-3B559007258F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F678489B-6D5F-4E2B-9528-3B559007258F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
